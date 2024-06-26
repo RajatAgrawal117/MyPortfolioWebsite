@@ -1,3 +1,4 @@
+//skills.js
 const skills = [
     { title: "C++", icon: "cpp-icon.png" },
     { title: "C", icon: "c-icon.png" },

@@ -7,11 +7,18 @@
     border-radius: 8px; /* Rounded corners for the section */
 }
 
-.skills-container h2 {
-    margin-bottom: 20px;
-    font-size: 24px;
-    color: #333; /* Ensure the heading color matches the text color */
+/* styles/skills.css */
+.skills-container {
+    padding: 20px;
 }
+
+.skills-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Add any additional styling as per your design requirements */
+
 
 .skills-grid {
     display: grid;

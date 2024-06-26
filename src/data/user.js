@@ -29,12 +29,12 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Calorie Tracker",
+			title: "News Gorilla",
 			description:
-				"This project is a web application built with Django that enables users to search for nutritional information of various food items. Whether you're a fitness enthusiast or just curious about the calories in your favorite foods, CalorieApp has got you covered.",
-			logo: "calorieApp.png",
+				"This project, News Gorilla, is a React-based news aggregator that provides users with the latest headlines across various categories such as Business, Entertainment, General, Health, Science, Sports, and Technology. It fetches data from an API and displays it in a user-friendly interface with infinite scrolling capabilities.",
+			logo: "cute-happy-gorilla-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium_138676-6017",
 			linkText: "View Project",
-			link: "https://github.com/RajatAgrawal117/CalorieApp/tree/master",
+			link: "https://github.com/RajatAgrawal117/newsAppReact",
 		},
 
 		{
@@ -56,21 +56,23 @@ const INFO = {
 		},
 
 		{
+			title: "Calorie Tracker",
+			description:
+				"This project is a web application built with Django that enables users to search for nutritional information of various food items. Whether you're a fitness enthusiast or just curious about the calories in your favorite foods, CalorieApp has got you covered.",
+			logo: "calorieApp.png",
+			linkText: "View Project",
+			link: "https://github.com/RajatAgrawal117/CalorieApp/tree/master",
+		},
+			
+
+		{
 			title: "Project 4",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+		
 		},
 	],
 };

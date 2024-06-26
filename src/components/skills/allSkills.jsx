@@ -1,3 +1,5 @@
+//allSkills.jsx
+
 import React from 'react';
 import Skill from './skills';
 import skillsData from '../../data/skills';
