@@ -32,7 +32,7 @@ const INFO = {
 			title: "News Gorilla",
 			description:
 				"This project, News Gorilla, is a React-based news aggregator that provides users with the latest headlines across various categories such as Business, Entertainment, General, Health, Science, Sports, and Technology. It fetches data from an API and displays it in a user-friendly interface with infinite scrolling capabilities.",
-			logo: "cute-happy-gorilla-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium_138676-6017",
+			logo: "cute-happy-gorilla-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium_138676-6017 (1).jpeg",
 			linkText: "View Project",
 			link: "https://github.com/RajatAgrawal117/newsAppReact",
 		},

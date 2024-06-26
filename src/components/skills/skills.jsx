@@ -13,7 +13,7 @@ const skills = () => (
                 <Col span={6} key={index}>
                     <Card
                         hoverable
-                        cover={<img alt={skill.title} src={skill.icon} style={{ width: '100px', height: '100px' }} />} // Adjust the path to your icons
+                        cover={<img alt={skill.title} src={skill.icon} />} // Adjust the path to your icons
                     >
                         <Meta title={skill.title} />
                     </Card>
